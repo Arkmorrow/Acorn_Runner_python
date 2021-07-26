@@ -76,23 +76,23 @@ These commands are case-insensitive!
 
 
 
-![image-20210726114739641](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114739641.png)
+![image-20210726114739641](screenshot/image-20210726114739641.png)
 
-![image-20210726114810077](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114810077.png)
+![image-20210726114810077](screenshot/image-20210726114810077.png)
 
-![image-20210726114830831](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114830831.png)
+![image-20210726114830831](screenshot/image-20210726114830831.png)
 
-![image-20210726114858460](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114858460.png)
+![image-20210726114858460](screenshot/image-20210726114858460.png)
 
-![image-20210726114920289](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114920289.png)
+![image-20210726114920289](screenshot/image-20210726114920289.png)
 
-![image-20210726114943633](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114943633.png)
+![image-20210726114943633](screenshot/image-20210726114943633.png)
 
-![image-20210726114959973](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726114959973.png)
+![image-20210726114959973](screenshot/image-20210726114959973.png)
 
-![image-20210726115012736](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726115012736.png)
+![image-20210726115012736](screenshot/image-20210726115012736.png)
 
-![image-20210726115029062](C:\Users\steve\AppData\Roaming\Typora\typora-user-images\image-20210726115029062.png)
+![image-20210726115029062](screenshot/image-20210726115029062.png)
 
 
 
