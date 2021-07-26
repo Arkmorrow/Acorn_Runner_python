@@ -43,7 +43,7 @@ There will be one txt ﬁle which contains an ASCII representation of the maze. 
 
 Example conﬁguration ﬁle:
 
-![image-20210726114314516](\screenshot\image-20210726114314516.png)
+![image-20210726114314516](screenshot/image-20210726114314516.png)
 
 
 
